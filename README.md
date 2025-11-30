@@ -1,2 +1,2 @@
 # aboutme.rrayuki
-try to make something
+trying to make something
